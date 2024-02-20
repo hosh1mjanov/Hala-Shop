@@ -86,18 +86,8 @@
     position: relative;
 }
 
-
-.world{
-    padding-right: 280px;
-    color: #91916C;
-    text-align: center;
-    font-family: Nunito Sans;
-    font-size: 32px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 139%;
-    letter-spacing: 0.96px;
-
+.product{
+    width: 10000px;
 }
 
 .h-1 {
@@ -149,6 +139,7 @@
     margin-left: 300px;
     margin-top: 30px;
     font-size: 15px;
+    padding-right: 250px;
 }
 
 /* middle */
