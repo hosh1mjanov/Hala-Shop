@@ -79,8 +79,25 @@
 /* header */
 
 .header-again {
-    margin-top: 50px;
-    background: #E1E1C2;
+   margin-top: 50px;
+}
+
+.container{
+    position: relative;
+}
+
+
+.world{
+    padding-right: 280px;
+    color: #91916C;
+    text-align: center;
+    font-family: Nunito Sans;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 139%;
+    letter-spacing: 0.96px;
+
 }
 
 .h-1 {
@@ -165,10 +182,6 @@
     line-height: 139%;
     /* 44.48px */
     letter-spacing: 0.96px;
-}
-
-.world{
-
 }
 
 
