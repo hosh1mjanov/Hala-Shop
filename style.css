@@ -175,6 +175,10 @@
     letter-spacing: 0.96px;
 }
 
+.justifay{
+    padding: 10px 10px 10px 10px;
+}
+
 
 .h-2>h2 {
     width: 727px;
@@ -205,6 +209,7 @@
     font-weight: 300;
     line-height: 138.5%;
     letter-spacing: 0.48px;
+    padding: 10px 10px 10px 10px;
 }
 
 .box2 {
@@ -222,6 +227,7 @@
     line-height: 138.5%;
     /* 33.24px */
     letter-spacing: 0.48px;
+    padding: 10px 10px 10px 10px;
 }
 
 .box3 {
@@ -239,6 +245,7 @@
     line-height: 138.5%;
     /* 33.24px */
     letter-spacing: 0.48px;
+    padding: 10px 10px 10px 10px;
 }
 
 .box1:hover{
